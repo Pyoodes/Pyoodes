@@ -106,12 +106,6 @@ C:\Users\Oscar> cat missions.log
 C:\Users\Oscar> cat stats.sh && bash stats.sh
 ```
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pyoodes&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=7f7fff&icon_color=7f7fff&text_color=c9c9c9&bg_color=0a0a0a" height="160" alt="Stats GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyoodes&layout=compact&theme=dark&hide_border=true&title_color=7f7fff&text_color=c9c9c9&bg_color=0a0a0a" height="160" alt="Top langages" />
-
-</div>
 
 ---
 
