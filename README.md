@@ -1,9 +1,7 @@
 👨‍💻 À propos de moi
 🚀 Développeur web & applications, du front au back
-🎯 Objectif : publier mes projets et faire vivre ce profil
-🌱 Toujours en train d'apprendre une nouvelle techno
-⚡ Fan de code propre... et de café fort
-💬 Parlez-moi de JavaScript/TypeScript, React, Node.js
+🌱 Toujours en train d'apprendre
+⚡ Fan de code propre... ou pas... et de café latté :3
 📫 Me contacter : oscardelacasa.pro@gmail.com
 <br>
 🛠️ Ma stack technique
