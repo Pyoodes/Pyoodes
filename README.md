@@ -1,41 +1,165 @@
-👨‍💻 À propos de moi
-🚀 Développeur web & applications, du front au back
-🌱 Toujours en train d'apprendre
-⚡ Fan de code propre... ou pas... et de café latté :3
-📫 Me contacter : oscardelacasa.pro@gmail.com
-<br>
-🛠️ Ma stack technique
+<!--
+  📁 Oscar De la Casa — GitHub Profile README
+  Repo : github.com/Pyoodes/Pyoodes
+  Style : gothcore · monospace · terminal
+-->
 
-Langages
+<div align="center">
 
-<p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> </p>
+```
+╔══════════════════════════════════════════════════════╗
+║              Oscar-OS  v2.0 — ESGI build             ║
+║         Booting developer environment...             ║
+║  ██████████████████████████████████████  100%        ║
+╚══════════════════════════════════════════════════════╝
+```
 
-Frontend
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Courier+New&pause=1000&color=7F7FFF&center=true&vCenter=true&width=500&lines=C%3A%5CUsers%5COscar%3E+whoami;dev+%7C+esgi+%7C+rouen%3B+paris;C%3A%5CUsers%5COscar%3E+cat+interests.txt;wordpress+%7C+vps+%7C+seo+%7C+linux;C%3A%5CUsers%5COscar%3E+_" alt="Typing SVG" />
+</a>
 
-<p align="left"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" /> </p>
+<br/>
 
-Backend & bases de données
+![Profile views](https://komarev.com/ghpvc/?username=Pyoodes&label=sessions+actives&color=7f7fff&style=flat-square)
 
-<p align="left"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> </p>
+</div>
 
-Outils & plateformes
+---
 
-<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </p>
+```
+C:\Users\Oscar> cat about.txt
+```
 
-💡 Ajoute/retire des badges selon ta vraie stack sur https://shields.io
+```
+Nom      : Oscar De la Casa
+Poste    : Dev Web & Infra — Alternant ESGI (2A)
+Lieu     : Normandie → Paris
+```
 
-<br>
-📊 Mes stats GitHub
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pyoodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats GitHub" height="165" /> <img src="https://streak-stats.demolab.com/?user=Pyoodes&theme=tokyonight&hide_border=true" alt="Streak GitHub" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyoodes&layout=compact&theme=tokyonight&hide_border=true" alt="Top langages" /> </div> <br>
-🏆 Trophées
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Pyoodes&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophées GitHub" /> </div> <br>
-🐍 Contribution animée (bonus)
-<!-- Décommente ce bloc une fois la GitHub Action "snake.yml" mise en place (voir les instructions fournies séparément) <div align="center"> <img src="https://raw.githubusercontent.com/Pyoodes/Pyoodes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div> --> <br>
-📌 Projets en vedette
-<!-- Une fois que tu auras publié des repos, remplace NOM_DU_REPO et duplique cette ligne pour chaque projet à mettre en avant. Tu peux aussi simplement utiliser "Customize your pins" sur ton profil. --> <div align="center">
+---
 
-Afficher l'image
+```
+C:\Users\Oscar> tree skills/
+```
 
-</div> <br>
-🤝 Me retrouver ailleurs
-<p align="center"> <a href="https://www.linkedin.com/in/oscar-de-la-casa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://oscardelacasa.fr/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="mailto:oscardelacasa.pro@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=100&section=footer" width="100%" /> </div>
+```
+skills/
+│
+├── backend_infra/
+│   ├── Linux (Ubuntu)          [██████████] administré
+│   ├── VPS / AaPanel           [████████░░] maîtrisé
+│   ├── DNS A · AAAA · MX       [████████░░] maîtrisé
+│   ├── SSH · fail2ban · UFW    [███████░░░] solide
+│   └── SQL · phpMyAdmin        [██████░░░░] fonctionnel
+│
+├── cms_web/
+│   ├── WordPress               [██████████] quotidien
+│   ├── WooCommerce             [█████████░] avancé
+│   ├── Elementor Pro           [█████████░] avancé
+│   ├── Rank Math SEO           [████████░░] maîtrisé
+│   └── MailPoet · HeyPongo     [███████░░░] régulier
+│
+├── frontend/
+│   ├── HTML · CSS              [████████░░] solide
+│   ├── JavaScript · PHP        [██████░░░░] fonctionnel
+│   └── JSX · React (bases)     [████░░░░░░] en cours
+│
+├── seo_kpi/
+│   ├── Google Search Console   [████████░░] maîtrisé
+│   ├── Google PageSpeed        [███████░░░] solide
+│   └── Semrush                 [██████░░░░] occasionnel
+│
+└── outils/
+    ├── Git · GitHub            [███████░░░] solide
+    ├── Photopea · Inkscape     [████████░░] maîtrisé
+    ├── CapCut · DaVinci        [███████░░░] régulier
+    └── Trello · Telegram       [██████████] quotidien
+```
+
+---
+
+```
+C:\Users\Oscar> cat missions.log
+```
+
+```
+[2025-2026] ─ La Réserve de Nanou ────────────────────────
+  ✓ Migration hébergement mutualisé → VPS Linux (IONOS)
+  ✓ Sécurisation VPS : fail2ban, SSH custom port, UFW
+  ✓ Gestion DNS, sous-domaines, redirections MX (Postfix)
+  ✓ Développement e-commerce WordPress / WooCommerce
+  ✓ SEO technique : score PageSpeed ~23 → +60
+  ✓ Google Search Console : centaines → milliers d'impressions
+  ✓ Newsletters MailPoet, gestion programme fidélité HeyPongo
+  ✓ Montage Reels / TikToks pour les réseaux sociaux
+
+[2025] ─ WebVikings ───────────────────────────────────────
+  ✓ Stage développeur web
+
+[2024] ─ La Réserve de Nanou (stage) ─────────────────────
+  ✓ Découverte CMS WordPress
+```
+
+---
+
+```
+C:\Users\Oscar> cat stats.sh && bash stats.sh
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pyoodes&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=7f7fff&icon_color=7f7fff&text_color=c9c9c9&bg_color=0a0a0a" height="160" alt="Stats GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyoodes&layout=compact&theme=dark&hide_border=true&title_color=7f7fff&text_color=c9c9c9&bg_color=0a0a0a" height="160" alt="Top langages" />
+
+</div>
+
+---
+
+```
+C:\Users\Oscar> cat languages.cfg
+```
+
+```
+fr_FR   ████████████████████  langue maternelle
+en_US   ████████████████░░░░  C2 courant
+bg_BG   ████████░░░░░░░░░░░░  intermédiaire
+es_ES   ████░░░░░░░░░░░░░░░░  débutant
+```
+
+---
+
+```
+C:\Users\Oscar> cat misc.txt
+```
+
+```
+> Pilote de drone
+> Musicien & photographe
+> Sportif multi-disciplines
+> Voyages à l'étranger (Bulgarie, ...)
+```
+
+---
+
+```
+C:\Users\Oscar> cat contact.sh
+```
+
+```bash
+#!/bin/bash
+echo "LinkedIn : https://www.linkedin.com/in/oscar-de-la-casa/"
+echo "Mail     : oscardelacasa.pro@gmail.com"
+echo "GitHub   : https://github.com/Pyoodes"
+```
+
+---
+
+<div align="center">
+
+```
+C:\Users\Oscar> shutdown /s /t 0
+```
+
+*à bientôt.*
+
+</div>
