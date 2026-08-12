@@ -144,6 +144,7 @@ C:\Users\Oscar> cat contact.sh
 echo "LinkedIn : https://www.linkedin.com/in/oscar-de-la-casa/"
 echo "Mail     : oscardelacasa.pro@gmail.com"
 echo "GitHub   : https://github.com/Pyoodes"
+echo "Site   : https://oscardelacasa.fr/"
 ```
 
 ---
