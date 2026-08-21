@@ -41,7 +41,7 @@ Lieu     : Normandie → Paris
 ```
 C:\Users\Oscar> tree skills/
 ```
-
+ 
 ```
 skills/
 │
@@ -50,32 +50,36 @@ skills/
 │   ├── VPS / AaPanel           [████████░░] maîtrisé
 │   ├── DNS A · AAAA · MX       [████████░░] maîtrisé
 │   ├── SSH · fail2ban · UFW    [███████░░░] solide
+│   ├── Bash · Unix             [███████░░░] solide
 │   └── SQL · phpMyAdmin        [██████░░░░] fonctionnel
+│
+├── langages/
+│   ├── HTML · CSS              [████████░░] solide
+│   ├── JavaScript · PHP        [██████░░░░] fonctionnel
+│   ├── JSX · React (bases)     [████░░░░░░] en cours
+│   ├── Python                  [██████░░░░] fonctionnel
+│   └── C · C++ (Tinkercad)     [████░░░░░░] notions
 │
 ├── cms_web/
 │   ├── WordPress               [██████████] quotidien
 │   ├── WooCommerce             [█████████░] avancé
 │   ├── Elementor Pro           [█████████░] avancé
 │   ├── Rank Math SEO           [████████░░] maîtrisé
+│   ├── UX Design               [███████░░░] solide
 │   └── MailPoet · HeyPongo     [███████░░░] régulier
-│
-├── frontend/
-│   ├── HTML · CSS              [████████░░] solide
-│   ├── JavaScript · PHP        [██████░░░░] fonctionnel
-│   └── JSX · React (bases)     [████░░░░░░] en cours
 │
 ├── seo_kpi/
 │   ├── Google Search Console   [████████░░] maîtrisé
 │   ├── Google PageSpeed        [███████░░░] solide
-│   └── Semrush                 [██████░░░░] occasionnel
+│   └── Semrush                 [██████░░░░] régulier
 │
 └── outils/
     ├── Git · GitHub            [███████░░░] solide
     ├── Photopea · Inkscape     [████████░░] maîtrisé
     ├── CapCut · DaVinci        [███████░░░] régulier
+    ├── Suite Office            [████████░░] maîtrisé
     └── Trello · Telegram       [██████████] quotidien
 ```
-
 ---
 
 ```
