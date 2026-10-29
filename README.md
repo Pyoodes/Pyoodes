@@ -28,9 +28,8 @@
 
 ```
 C:\Users\Oscar> cat about.txt
-```
 
-```
+
 Nom      : Oscar De la Casa
 Poste    : Dev Web & Infra — Alternant ESGI (2A)
 Lieu     : Normandie → Paris
@@ -119,7 +118,7 @@ C:\Users\Oscar> cat languages.cfg
 
 ```
 fr_FR   ████████████████████  langue maternelle
-en_US   ████████████████░░░░  C2 courant
+en_US   ███████████████████░  C2 courant
 bg_BG   ████████░░░░░░░░░░░░  intermédiaire
 es_ES   ████░░░░░░░░░░░░░░░░  débutant
 ```
@@ -128,9 +127,8 @@ es_ES   ████░░░░░░░░░░░░░░░░  débutant
 
 ```
 C:\Users\Oscar> cat misc.txt
-```
 
-```
+
 > Pilote de drone
 > Musicien & photographe
 > Sportif multi-disciplines
